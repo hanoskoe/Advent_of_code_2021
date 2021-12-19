@@ -1,0 +1,7 @@
+#Conseils de Paul
+
+#ouvrir le fichier
+-ouvre le fichier et crée directement une structure qui sera utilisable et intuitive pour l'utilisation dans mon programme
+-utilise la fonction with open... parce que ca enlève les problemes de devoir fermer le fichier a la fin (ce qu'on oublie très souvent de toute façon)
+
+#
